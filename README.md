@@ -1,10 +1,16 @@
-# task_ropstam
+# Project Title
 
-A new Flutter project.
+task_ropstam
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The main.dart is the starting point of the application.
+In this project following functionaltes are added:
+=> user login 
+=> validation on login
+=> A list of data is shown in the Home Screen Using Listview
+=> access token is save in the shared preferrence 
+=> after logout the token is destroyed and when token is destroyed user have to login to access the Home Screen
 
 A few resources to get you started if this is your first Flutter project:
 
