@@ -19,6 +19,7 @@ class ListCard extends StatelessWidget {
         ),
         children: <Widget>[
           ListTile(
+            leading: const Text(""),
             title: Text(
               model.body.toString(),
             ),
